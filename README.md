@@ -1,4 +1,4 @@
-<img src="./image/thumbnail01.png" title="This is my YouTube channel Thumbnail.">
+<img src="./img/thumbnail.png" title="This is my YouTube channel Thumbnail.">
 
 ### Hi there 👋, my name is Mohammed Faysal
 #### I am a Web Developer and I am a YouTuber

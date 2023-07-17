@@ -16,7 +16,8 @@ __Skills and Experience:__
 <br>
 
 ## Example of my Work
-https://youtu.be/LbeXz6p7GGA
+[<img src="./img/Age Calculator using JavaScript.png">](https://youtu.be/oynquI4o6VQ) [<img src="./img/Todo list app html css & javascript.png">](https://youtu.be/LbeXz6p7GGA)[<img src="./img/Dynamic Calendar using HTML CSS and JavaScript.png">](https://youtu.be/pFKmqgZCIL4)[<img src="./img/Digital Clock using HTML CSS and JavaScript.png">](https://youtu.be/CCdjdWw_9EM)[<img src="./img/Accordion with JavaScript.png">](https://youtu.be/6pXokbDqXN8)[<img src="./img/Calculator.png">](https://youtu.be/s7daPJ10Ac0)[<img src="./img/country state city zipcode.png">](https://youtu.be/q_LGyAYXS2Q)
+
 
 <br>
 

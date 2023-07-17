@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammed Faysal
 #### I am a Web Developer and I am a YouTuber
-![I am a Web Developer and I am a YouTuber](https://i.ibb.co/S5sV6YN/Pink-Blue-Purple-Modern-Gradient-Music-Youtube-Banner-copy.png)
+<img src="https://imageupload.io/Ono4Ur77SWrL8Ru">
 
 I am a Teacher and I am a Learner
 

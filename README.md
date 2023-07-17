@@ -2,9 +2,9 @@
 #### I am a Web Developer and I am a YouTuber
 <img src="./image/thumbnail.png" title="This is my YouTube channel Thumbnail.">
 
-I am a Teacher and I am a Learner
+__I am a Teacher and I am a Learner__
 
-Skills: REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
+__Skills:__ REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
 
  🔭 I’m currently working on YouTube  
  🌱 I’m currently learning JavaScript   

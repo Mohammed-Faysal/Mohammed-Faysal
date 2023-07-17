@@ -6,10 +6,10 @@ I am a Teacher and I am a Learner
 
 Skills: REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
 
-- 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+ 🔭 I’m currently working on YouTube 
+ 🌱 I’m currently learning JavaScript 
+ 👯 I’m looking to collaborate on GitHub 
+ 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohammed-Faysal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/CreativeCoder111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@creativejscoder)  

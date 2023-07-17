@@ -6,9 +6,9 @@ I am a Teacher and I am a Learner
 
 Skills: REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
 
- 🔭 I’m currently working on YouTube 
- 🌱 I’m currently learning JavaScript 
- 👯 I’m looking to collaborate on GitHub 
+ 🔭 I’m currently working on YouTube  
+ 🌱 I’m currently learning JavaScript   
+ 👯 I’m looking to collaborate on GitHub   
  💬 Ask me about Web Development 
 
 

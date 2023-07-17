@@ -4,12 +4,14 @@
 ### I am a Web Developer and a YouTuber
 
 
-__I am a Teacher and I am a Learner__
+″ ‶__Iam a Teacher and I am a Learner__
+
 
 __Skills and Experience:__
 - ⚛ React
 - 💻 HTML, CSS, SCSS, Bootstrap, Tailwind CSS
 - 👩‍💻 JavaScript, jQuery
+
 
  🔭 I’m currently working on YouTube  
  🌱 I’m currently learning JavaScript   

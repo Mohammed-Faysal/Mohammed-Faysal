@@ -6,7 +6,10 @@
 
 __I am a Teacher and I am a Learner__
 
-__Skills:__ REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
+__Skills and Experience:__
+- ⚛ React
+- 💻 HTML, CSS, SCSS, Bootstrap, Tailwind CSS
+- 👩‍💻 JavaScript, jQuery
 
  🔭 I’m currently working on YouTube  
  🌱 I’m currently learning JavaScript   

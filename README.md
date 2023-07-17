@@ -4,7 +4,7 @@
 ### I am a Web Developer and a YouTuber
 
 
-__Iam a Teacher and I am a Learner__
+__I am a Teacher and I am a Learner__
 
 <br>
 

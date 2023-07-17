@@ -15,6 +15,11 @@ __Skills and Experience:__
 
 <br>
 
+## Example of my Work
+https://youtu.be/LbeXz6p7GGA
+
+<br>
+
  🔭 I’m currently working on YouTube  
  🌱 I’m currently learning JavaScript   
  👯 I’m looking to collaborate on GitHub   

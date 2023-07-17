@@ -30,4 +30,4 @@ __Skills:__ REACT / JS / jQuery / HTML / CSS / Bootstrap / Tailwind CSS / SCSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mohammed-Faysal)  
 
-![Profile views](https://gpvc.arturio.dev/Mohammed-Faysal)  
+![Profile views](https://github.com/Mohammed-Faysal)  

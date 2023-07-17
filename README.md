@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammed Faysal
 #### I am a Web Developer and I am a YouTuber
-<img src="https://imageupload.io/Ono4Ur77SWrL8Ru">
+<img src="./image/thumbnail.png" />
 
 I am a Teacher and I am a Learner
 
